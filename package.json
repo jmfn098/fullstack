@@ -1,0 +1,17 @@
+{
+  "name": "edn-sistema-backend",
+  "version": "1.0.0",
+  "description": "backend sistema 5dias",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcelo Frutos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.16",
+    "nodemon": "^2.0.6"
+  }
+}
